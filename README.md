@@ -33,3 +33,10 @@ Please tell me if you use this because I like to know!
 
 Always feel free to file an issue to report a problem or ask a question. PRs are also welcome if you are comfortable with that.
 
+# Attribution
+
+Attribution for the data used in this lesson:
+
+> Transcribed by Gabriel Moshenska (gmoshenska@yahoo.co.uk) and released under a CC-By license. 
+> This data is further described in the following data paper:
+Moshenska, G. 2012. Selected Correspondence from the papers of Thomas Pettigrew (1791-1865), Surgeon and Antiquary. Journal of Open Archaeology Data 1(2), DOI: http://dx.doi.org/10.5334/4f913ca0cbb89
